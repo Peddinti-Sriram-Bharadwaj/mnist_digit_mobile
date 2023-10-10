@@ -1,0 +1,5 @@
+org.tensorflow.lite.codelabs.digitclassifier.test.app-androidTest-0 D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\build\generated\res\resValues\androidTest\debug
+org.tensorflow.lite.codelabs.digitclassifier.test.app-androidTest-1 D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\build\generated\res\rs\androidTest\debug
+org.tensorflow.lite.codelabs.digitclassifier.test.app-mergeDebugAndroidTestResources-2 D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.tensorflow.lite.codelabs.digitclassifier.test.app-mergeDebugAndroidTestResources-3 D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.tensorflow.lite.codelabs.digitclassifier.test.app-merged_res-4 D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\build\intermediates\merged_res\debugAndroidTest

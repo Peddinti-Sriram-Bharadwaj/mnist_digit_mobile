@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.codelabs.digitclassifier"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:5:3-15
+8        android:minSdkVersion="21"
+8-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:5:3-15
+9        android:targetSdkVersion="31" />
+9-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:5:3-15
+10
+11    <application
+11-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:7:3-23:17
+12        android:allowBackup="true"
+12-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:8:11-37
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\P N Charyulu\.gradle\caches\transforms-3\7591274a2e5cce8f9adcba0d7fc534e9\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:9:11-45
+16        android:label="@string/app_name"
+16-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:10:11-43
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:11:11-56
+18        android:supportsRtl="true"
+18-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:12:11-37
+19        android:theme="@style/AppTheme" >
+19-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:13:11-42
+20        <activity
+20-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:16:5-22:16
+21            android:name="org.tensorflow.lite.codelabs.digitclassifier.MainActivity"
+21-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:16:15-43
+22            android:exported="true" >
+22-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:17:15-38
+23            <intent-filter>
+23-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:18:7-21:23
+24                <action android:name="android.intent.action.MAIN" />
+24-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:19:9-60
+24-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:19:17-58
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:20:9-68
+26-->D:\ml\CV\mnist_mobile\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:20:19-66
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\P N Charyulu\.gradle\caches\transforms-3\cafd939897e501c03829b453db2a0bac\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+30            android:name="com.divyanshu.draw.activity.DrawingActivity"
+30-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\P N Charyulu\.gradle\caches\transforms-3\cafd939897e501c03829b453db2a0bac\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+31            android:theme="@style/Theme.AppCompat.NoActionBar" />
+31-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\P N Charyulu\.gradle\caches\transforms-3\cafd939897e501c03829b453db2a0bac\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+32
+33        <meta-data
+33-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\P N Charyulu\.gradle\caches\transforms-3\e98c5b87f77a4dbf700cd8571d31c7dd\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+34            android:name="com.google.android.gms.version"
+34-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\P N Charyulu\.gradle\caches\transforms-3\e98c5b87f77a4dbf700cd8571d31c7dd\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+35            android:value="@integer/google_play_services_version" />
+35-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\P N Charyulu\.gradle\caches\transforms-3\e98c5b87f77a4dbf700cd8571d31c7dd\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+36    </application>
+37
+38</manifest>
