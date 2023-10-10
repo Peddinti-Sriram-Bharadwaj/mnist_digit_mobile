@@ -8,7 +8,7 @@ The iOS version will be released soon.
 
 Here are some sample predictions from the Handwritten Digit Classifier app:
 
-!Sample Predictions
+<img src = 'https://github.com/SriramBharadwaj1/mnist_digit_mobile/blob/master/assets/sample_predictions.jpeg' height = 500>
 
 The image above shows the output of the classifier when tested with some handwritten digits.
 
