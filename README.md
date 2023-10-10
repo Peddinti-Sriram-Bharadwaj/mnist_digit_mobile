@@ -35,6 +35,18 @@ The image above shows the output of the classifier when tested with some handwri
     - Navigate to the directory where you cloned the project.
     - Select the `mnist_digit_mobile` directory and click `OK`.
     - Android Studio loads the project and you are ready to explore!
+3. Adding your custom classifier in Android Studio
+
+1. Open **Android Studio** on your computer.
+2. Click on `File > Open...` from the menu bar.
+3. Navigate to the location where you have saved the project and click `OK`.
+4. Android Studio will take a few moments to import the project and set up the environment.
+5. Once the project is loaded, click on `Build > Build Bundle(s) / APK(s) > Build APK(s)`.
+6. After the build is complete, you will see a notification at the bottom of the screen saying `APK(s) generated successfully`.
+7. Click on `locate` in this notification to navigate to the generated APK file.
+8. You can now deploy this APK file to any Android device for testing.
+
+Please ensure that you have replaced the `.tflite` file as per previous instructions before building the APK.
 
 # Contribution Guidelines
 
