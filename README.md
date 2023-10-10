@@ -4,6 +4,15 @@ This is a placeholder app to rapidly test the accuracy of your handwritten digit
 Yes, you heard it right. You can install the apk file of this repository in your android app, and test the effectiveness of your classifier.
 The iOS version will be released soon.
 
+## Handwritten Digit Classifier Sample Predictions for the android version
+
+Here are some sample predictions from the Handwritten Digit Classifier app:
+
+!Sample Predictions
+
+The image above shows the output of the classifier when tested with some handwritten digits.
+
+
 ## Prerequisites
 
 - Git
