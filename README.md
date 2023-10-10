@@ -35,7 +35,7 @@ The image above shows the output of the classifier when tested with some handwri
     - Navigate to the directory where you cloned the project.
     - Select the `mnist_digit_mobile` directory and click `OK`.
     - Android Studio loads the project and you are ready to explore!
-3. Adding your custom classifier in Android Studio
+3. **Adding your custom classifier in Android Studio**
     - Open **Android Studio** on your computer.
     - Click on `File > Open...` from the menu bar.
     - Navigate to the location where you have saved the project and click `OK`.
@@ -49,7 +49,7 @@ Please ensure that you have replaced the `.tflite` file as per previous instruct
 
 # Contribution Guidelines
 
-We welcome and appreciate all contributions to the MNIST Digit Mobile project! Here's how you can contribute:
+I welcome and appreciate all contributions to the MNIST Digit Mobile project! Any kind of improvements to the UI or additional functionality, or even to the README.MD file are welcome Here's how you can contribute:
 
 ## Prerequisites
 
