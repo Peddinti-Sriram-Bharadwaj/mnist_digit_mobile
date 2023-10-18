@@ -4,6 +4,7 @@ This is a placeholder app to rapidly test the accuracy of your handwritten digit
 Yes, you heard it right. You can install the apk file of this repository in your android app, and test the effectiveness of your classifier.
 The iOS version will be released soon.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-green?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/SriramBharadwaj1/mnist_digit_mobile/archive/.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 ## Handwritten Digit Classifier Sample Predictions for the android version
