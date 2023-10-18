@@ -3,6 +3,8 @@
 This is a placeholder app to rapidly test the accuracy of your handwritten digit classifier app with your own hands!!!
 Yes, you heard it right. You can install the apk file of this repository in your android app, and test the effectiveness of your classifier.
 The iOS version will be released soon.
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+<!-- END LATEST DOWNLOAD BUTTON -->
 
 ## Handwritten Digit Classifier Sample Predictions for the android version
 
